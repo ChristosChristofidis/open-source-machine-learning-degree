@@ -1,4 +1,4 @@
-#Open Source Machine Learning Degree
+# Open Source Machine Learning Degree
 
 Learn machine learning for free, because free is better than not-free.
 
